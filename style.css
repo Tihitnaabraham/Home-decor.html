@@ -1,0 +1,61 @@
+body{
+    background-color: white;
+}
+.start-now{
+    padding: 25px;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(40, 40, 49)
+    
+}
+.num{
+    font-size:larger;
+    display: flex; justify-content: space-between;
+
+}
+.list{
+    font-size: xx-large;
+}
+.offer{
+    margin-left: 50%;
+    position: left;
+}
+.restyle{
+    font-size: xx-large;
+}
+#shop{
+    padding: 25px;
+    border-radius: 25px;
+}
+.shop{
+    padding: 25px;
+    border-radius: 25px;
+}
+.three{
+    margin-right: 50%;
+    position: right;
+}
+.style{
+    font-size: xx-large;
+}
+.h3{font-size: xx-large;
+    
+}
+.h4{
+    font-size: xx-large;
+}
+.lists{
+    list-style-type: none;
+    padding: 0%;
+    display: flex;justify-content: space-between;
+    margin: 8px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.images{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.icon{
+    margin-right: 0%;
+}
